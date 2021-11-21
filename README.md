@@ -1,0 +1,3 @@
+# NHS-dentist-assignment
+
+Poplation figures from https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/12429clinicalcommissioninggroupsccgspopulationestimatesbysingleyearofageandsexenglandmid2001tomid2019
